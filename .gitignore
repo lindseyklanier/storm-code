@@ -1,6 +1,6 @@
 .lein-repl-history
-/classes
-/lib
+#/classes
+#/lib
 deploy/lib
 .emacs-project
 bin/jzmq
@@ -30,7 +30,7 @@ dependency-reduced-pom.xml
 metastore_db
 build
 /docs/javadocs
-*.class
+#*.class
 
 # logs
 logs
@@ -48,7 +48,7 @@ logs
 .idea
 
 # Package Files
-*.jar
+#*.jar
 *.war
 *.ear
 
